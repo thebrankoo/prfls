@@ -78,6 +78,7 @@ class ProfileDetailsViewController: UIViewController, DetailsViewProtocol {
         let h1 = subviewCount * detailsViewHeight
         let h2 = (subviewCount - 1) * stackItemSpacing
         stackHeightConstraint.constant = CGFloat(h1+h2)
+        profileInfoStack.layoutIfNeeded()
     }
     
     // MARK: Details view protocl
