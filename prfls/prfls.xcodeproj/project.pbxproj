@@ -20,7 +20,6 @@
 		19D35DEB233FA4C200701FC8 /* ProfileTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D35DEA233FA4C200701FC8 /* ProfileTableViewCell.swift */; };
 		19D35DED233FBBB100701FC8 /* LoadingCellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 19D35DEC233FBBB100701FC8 /* LoadingCellView.xib */; };
 		19D35DEF233FBBDE00701FC8 /* LoadingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D35DEE233FBBDE00701FC8 /* LoadingTableViewCell.swift */; };
-		19D35DF1233FDF9300701FC8 /* ProfileDetailsView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 19D35DF0233FDF9300701FC8 /* ProfileDetailsView.xib */; };
 		19D35DF3233FE1A400701FC8 /* ProfileDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D35DF2233FE1A400701FC8 /* ProfileDetailsViewController.swift */; };
 		19D35DF5233FE30300701FC8 /* ProfileDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D35DF4233FE30300701FC8 /* ProfileDetailsViewModel.swift */; };
 		19D35DF7234007F200701FC8 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D35DF6234007F200701FC8 /* DetailsView.swift */; };
@@ -58,7 +57,6 @@
 		19D35DEA233FA4C200701FC8 /* ProfileTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTableViewCell.swift; sourceTree = "<group>"; };
 		19D35DEC233FBBB100701FC8 /* LoadingCellView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCellView.xib; sourceTree = "<group>"; };
 		19D35DEE233FBBDE00701FC8 /* LoadingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingTableViewCell.swift; sourceTree = "<group>"; };
-		19D35DF0233FDF9300701FC8 /* ProfileDetailsView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileDetailsView.xib; sourceTree = "<group>"; };
 		19D35DF2233FE1A400701FC8 /* ProfileDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileDetailsViewController.swift; sourceTree = "<group>"; };
 		19D35DF4233FE30300701FC8 /* ProfileDetailsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileDetailsViewModel.swift; sourceTree = "<group>"; };
 		19D35DF6234007F200701FC8 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
@@ -152,7 +150,6 @@
 			children = (
 				19D35DF6234007F200701FC8 /* DetailsView.swift */,
 				19D35DE6233FA06100701FC8 /* ProfileCellView.xib */,
-				19D35DF0233FDF9300701FC8 /* ProfileDetailsView.xib */,
 				19D35DEC233FBBB100701FC8 /* LoadingCellView.xib */,
 				19D35DEE233FBBDE00701FC8 /* LoadingTableViewCell.swift */,
 				19D35DEA233FA4C200701FC8 /* ProfileTableViewCell.swift */,
@@ -253,7 +250,6 @@
 				19D35DE7233FA06100701FC8 /* ProfileCellView.xib in Resources */,
 				19D35DD3233F148700701FC8 /* LaunchScreen.storyboard in Resources */,
 				19D35DED233FBBB100701FC8 /* LoadingCellView.xib in Resources */,
-				19D35DF1233FDF9300701FC8 /* ProfileDetailsView.xib in Resources */,
 				19D35DD0233F148700701FC8 /* Assets.xcassets in Resources */,
 				19D35DCE233F148500701FC8 /* Main.storyboard in Resources */,
 			);
